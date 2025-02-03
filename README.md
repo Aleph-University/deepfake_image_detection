@@ -73,21 +73,3 @@ Feel free to contribute by forking the repository, making improvements, and subm
 
 ## License
 This project is licensed under the MIT License.
-
----
-
-# Connecting GitHub to LinkedIn
-
-## Upload your repository to GitHub:
-- Navigate to GitHub.
-- Click on "New Repository" and create one.
-- Use the following commands in your terminal:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/YOUR_GITHUB_USERNAME/Deepfake-Detector.git
-git push -u origin main
-```
