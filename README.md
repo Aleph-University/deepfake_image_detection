@@ -24,6 +24,8 @@ Deepfake image detector is a machine learning-based application that uses Effici
 
 │── 📄 Figure_1.jpg                   # Training plots
 
+│── 📄 deepfake_image_detector.mp4    # Code demonstration
+
 │── 📄 README.md                      # Documentation
 
 ## Installation
