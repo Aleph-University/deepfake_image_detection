@@ -18,7 +18,7 @@ Deepfake image detector is a machine learning-based application that uses Effici
 
 │── 📄 deepfake_image_detect.py       # Core model and data processing module
 
-│── 📂 dataset/                       # Directory for training, validation, and test images
+│── 📂 karki_kaggle/                  # Directory for training, validation, and test images
 
 │── 📂 models/                        # Directory for saved models
 
